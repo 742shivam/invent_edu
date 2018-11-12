@@ -1,0 +1,40 @@
+<----------------------------------------------------------TGH-------------------------------------------------------------->
+
+1.  /public_html/tgh-test/wp-content/themes/boss/buddypress/members/members-loop.php
+2.  /public_html/tgh-test/wp-content/plugins/buddypress/bp-members/bp-members-widgets.php
+3.  /public_html/tgh-test/wp-content/plugins/buddypress/bp-members/classes/class-bp-core-members-widget.php
+4.  /public_html/tgh-test/wp-content/themes/boss/buddypress/groups/groups-loop.php
+5.  /public_html/tgh-test/wp-content/themes/boss/buddypress/groups/index.php
+6.  /public_html/tgh-test/wp-content/themes/boss/buddypress/groups/single/group-header.php
+7.  /public_html/tgh-test/wp-content/themes/boss/buddypress/groups/create.php
+8.  /public_html/tgh-test/wp-content/themes/boss/buddypress-sidewide.php
+9.  /public_html/tgh-test/wp-content/themes/boss/sidebar-buddypress.php
+10. /public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/js/header-section.js
+11. /public_html/tgh-test/wp-content/themes/boss-child/functions.php
+12. /public_html/tgh-test/wp-content/plugins/bp-custom.php
+13. /public_html/tgh-test/wp-content/themes/boss-child/template-parts/header-profile-fp.php
+14. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/1.png
+15. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/2.png
+16. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/3.png
+17. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/4.png
+18. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/css/simple_social_share.css
+19. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/js/simple_social_share.js
+20. public_html/tgh-test/wp-content/themes/boss-child/front-page.php
+21. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/socialCards/1.png
+22. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/socialCards/2.png
+23. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/socialCards/3.png
+24. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/socialCards/4.png
+25. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/socialCards/5.png
+26. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/socialCards/6.png
+27. public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/images/socialCards/7.png
+28. /public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/css/basic.css
+29. /public_html/tgh-test/wp-content/themes/boss-child/front-page-assets/css/theme-style.css
+30. /public_html/tgh-test/wp-content/themes/boss/buddyboss-inc/theme-functions.php
+31. /public_html/tgh-test/wp-content/themes/boss/content.php
+
+
+<-----------------------------------------------------------UNHIN---------------------------------------------------------------->
+
+1. /public_html/unhin-test/wp-content/themes/boss/buddyboss-inc/theme-functions.php
+
+2. /public_html/unhin-test/wp-content/themes/boss/content.php
