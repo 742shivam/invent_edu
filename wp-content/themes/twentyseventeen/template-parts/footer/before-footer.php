@@ -1,0 +1,1 @@
+<p><?php _e('My Custom footer template!', 'wphooks'); ?> </p>
