@@ -1,4 +1,8 @@
 <?php
+
+// Configuration common to all environments
+include_once __DIR__ . '/wp-config.common.php';
+
 /**
  * The base configuration for WordPress
  *
@@ -20,9 +24,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('REVISR_WORK_TREE', 'C:\xampp\htdocs\wphooks/'); // Added by Revisr
-define('REVISR_GIT_PATH', ''); // Added by Revisr
-define('DB_NAME', 'wphooks');
+define('DB_NAME', 'invent_edu');
 
 /** MySQL database username */
 define('DB_USER', 'root');
@@ -81,6 +83,7 @@ $table_prefix  = 'wp_';
  */
 define('WP_DEBUG', false);
 
+define('VP_ENVIRONMENT', 'default');
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
